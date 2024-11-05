@@ -27,7 +27,7 @@ RAMSES es el sistema encargado de recolectar, tamizar y medir la temperatura y h
 
 ![RAMSES](docs/imgs/ramses.png)
 
-![RAMSES gif](docs/imgs/ramses_gif.gif)
+![RAMSES gif](docs/imgs/gif_ramses.gif)
 
 
 ### 3. **Caja Electrónica**
